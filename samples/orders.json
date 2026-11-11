@@ -1,0 +1,48 @@
+[
+  {
+    "id": "sale-a",
+    "store": "S1",
+    "currency": "CNY",
+    "discount": 5,
+    "lines": [
+      {
+        "line_id": "a",
+        "unit_price": 101,
+        "quantity": 3,
+        "tax": 1
+      },
+      {
+        "line_id": "b",
+        "unit_price": 101,
+        "quantity": 3,
+        "tax": 2
+      },
+      {
+        "line_id": "gift",
+        "unit_price": 0,
+        "quantity": 1,
+        "tax": 0
+      }
+    ]
+  },
+  {
+    "id": "sale-b",
+    "store": "S1",
+    "currency": "CNY",
+    "discount": 1,
+    "lines": [
+      {
+        "line_id": "c",
+        "unit_price": 3,
+        "quantity": 2,
+        "tax": 1
+      },
+      {
+        "line_id": "d",
+        "unit_price": 3,
+        "quantity": 2,
+        "tax": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "request_id": "r1",
+    "sale_id": "sale-a",
+    "line_id": "a",
+    "quantity": 1
+  },
+  {
+    "request_id": "r2",
+    "sale_id": "sale-a",
+    "line_id": "a",
+    "quantity": 2
+  },
+  {
+    "request_id": "r3",
+    "sale_id": "sale-b",
+    "line_id": "c",
+    "quantity": 1
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "id": "cash",
+    "normal": "debit"
+  },
+  {
+    "id": "revenue",
+    "normal": "credit"
+  },
+  {
+    "id": "tax_payable",
+    "normal": "credit"
+  }
+]

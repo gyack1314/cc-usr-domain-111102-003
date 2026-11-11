@@ -1,0 +1,14 @@
+{
+  "name": "机器人零售的优惠分摊与部分退货冲正",
+  "files": [
+    {
+      "path": "orders.json"
+    },
+    {
+      "path": "requests.json"
+    },
+    {
+      "path": "accounts.json"
+    }
+  ]
+}
